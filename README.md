@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am from UIT and graduate in 2023.
 <!--
 **chaupha180801/chaupha180801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
